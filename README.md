@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/atlas-comstock-hika-mcp-server-badge.png)](https://mseep.ai/app/atlas-comstock-hika-mcp-server)
+
 # Hika MCP Server
 
 ## Overview
